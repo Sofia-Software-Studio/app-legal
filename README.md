@@ -1,4 +1,4 @@
-# App Legal Documents
+# Sofia Travel App Legal Documents
 
 This repository contains the legal documents for our mobile application:
 
